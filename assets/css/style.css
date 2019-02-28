@@ -43,7 +43,7 @@ nav a {
 
 .aboutmebox {
     background-color: white;
-    border-color: #dddddd;
+    border: 1px solid #dddddd;
     width: 960px;
     margin: 0px 160px 20px;
     float: left;
@@ -63,6 +63,34 @@ nav a {
 
 .aboutme {
     color: #777777;
+}
+
+.contact {
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+    width: 960px;
+    margin: 0px 160px 20px;
+    padding: 0px 20px 20px;
+    float: left;
+    line-height: 1.5;
+}
+
+.contactheading {
+    padding: 20px 0px;
+    border-bottom: 2px solid #dddddd;
+    line-height: 1;
+}
+
+form input {
+    padding: 5px 0px;
+    margin: 5px 0px;
+}
+
+.submit {
+    background-color: #4aaaa5;
+    color: white;
+    float: left;
+    padding: 10px 30px;
 }
 
 footer {
