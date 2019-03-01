@@ -79,13 +79,13 @@ nav a, nav a:visited {
 
 .portfolio {
     position: relative;
-    height: 650px;
+    height: 920px;
 }
 
 .folioitem {
     background-color: #4aaaa5;
     color: #ffffff;
-    width: 200px;
+    width: 300px;
     padding: 20px 0px;
     text-align: center;
 }
@@ -96,48 +96,48 @@ nav a, nav a:visited {
 
 .hangmantext {
     position: absolute;
-    top: 65px;
+    top: 140px;
 }
 
 .rpgimg {
     position: absolute;
-    left: 260px;
+    left: 360px;
 }
 
 .rpgtext {
     position: absolute;
-    top: 65px;
+    top: 140px;
 }
 
 .triviaimg {
     position: absolute;
-    top: 300px;
+    top: 375px;
 }
 
 .triviatext {
     position: absolute;
-    top: 65px;
+    top: 140px;
 }
 
 .rutgersimg {
     position: absolute;
-    left: 260px;
-    top: 300px;
+    left: 360px;
+    top: 375px;
 }
 
 .rutgerstext {
     position: absolute;
-    top: 65px;
+    top: 140px;
 }
 
 .rockimg {
     position: absolute;
-    top: 480px;
+    top: 630px;
 }
 
 .rocktext {
     position: absolute;
-    top: 65px;
+    top: 140px;
 }
 
 /* css for Contact page */
