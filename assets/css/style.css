@@ -127,13 +127,13 @@ a, a :visited {
     top: 140px;
 }
 
-.rutgersimg {
+.gifFruityimg {
     position: absolute;
     left: 360px;
     top: 375px;
 }
 
-.rutgerstext {
+.gifFruitytext {
     position: absolute;
     top: 140px;
 }
@@ -144,6 +144,17 @@ a, a :visited {
 }
 
 .rocktext {
+    position: absolute;
+    top: 140px;
+}
+
+.rutgersimg {
+    position: absolute;
+    left: 360px;
+    top: 630px;
+}
+
+.rutgerstext {
     position: absolute;
     top: 140px;
 }
